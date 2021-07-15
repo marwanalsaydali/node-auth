@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/marwanalsaydali/node-auth/issues"
   },
-  "homepage": "https://github.com/marwanalsaydali/node-auth#readme"
+  "homepage": "https://github.com/marwanalsaydali/node-auth#readme",
+  "dependencies": {
+    "fastify": "^3.19.1",
+    "fastify-static": "^4.2.2"
+  }
 }
