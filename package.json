@@ -1,0 +1,26 @@
+{
+  "name": "node-auth",
+  "version": "1.0.0",
+  "description": "Node Fundamentals Authentication is a project to practice on Node foundations and build an authentication system from scratch",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwanalsaydali/node-auth.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "NodeJS"
+  ],
+  "author": "Marwan Alsaydali",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/marwanalsaydali/node-auth/issues"
+  },
+  "homepage": "https://github.com/marwanalsaydali/node-auth#readme"
+}
